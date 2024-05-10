@@ -1,0 +1,82 @@
+*   [33mcommit a01a38044691704985141e37b37ea678efd4d8e2[m[33m ([m[1;31morigin/master[m[33m)[m
+[31m|[m[32m\[m  Merge: 1c0b173 f606644
+[31m|[m [32m|[m Author: KaiAdrian <39942544+KaiAdrian@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Thu May 9 20:55:39 2024 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge pull request #1 from KaiAdrian/new-feature
+[31m|[m [32m|[m     
+[31m|[m [32m|[m     new-feature
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit f6066448aa47b03148ae0e9450d458de1f1f3cf1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-feature[m[33m, [m[1;31morigin/new-feature[m[33m)[m
+[31m|[m[31m/[m  Author: KaiAdrian83 <thriller30@gmail.com>
+[31m|[m   Date:   Thu May 9 20:42:18 2024 +0200
+[31m|[m   
+[31m|[m       new-feature
+[31m|[m   
+*   [33mcommit 1c0b1735be3c69579bfe5cf43efa62d104e68677[m[33m ([m[1;32mmaster[m[33m)[m
+[33m|[m[34m\[m  Merge: 84ca4e8 e591dc2
+[33m|[m [34m|[m Author: KaiAdrian83 <thriller30@gmail.com>
+[33m|[m [34m|[m Date:   Wed May 8 08:55:16 2024 +0200
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     commit rešenu
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit e591dc25172b85561b6681f3a82e430fc4850a4f[m[33m ([m[1;32mkonflikt[m[33m)[m
+[33m|[m [34m|[m Author: KaiAdrian83 <thriller30@gmail.com>
+[33m|[m [34m|[m Date:   Wed May 8 08:45:53 2024 +0200
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     konflikt1
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit 84ca4e8e88342b13e39681a25cb2bfa7958b9069[m
+[34m|[m[34m/[m  Author: KaiAdrian83 <thriller30@gmail.com>
+[34m|[m   Date:   Wed May 8 08:48:57 2024 +0200
+[34m|[m   
+[34m|[m       konflikt2
+[34m|[m   
+*   [33mcommit bbf209c766064e9e2a1ee081ce3fe2b97c76a195[m
+[35m|[m[36m\[m  Merge: a9d52bd ab3d121
+[35m|[m [36m|[m Author: KaiAdrian83 <thriller30@gmail.com>
+[35m|[m [36m|[m Date:   Wed May 8 08:34:43 2024 +0200
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     feature1 merged
+[35m|[m [36m|[m 
+[35m|[m * [33mcommit ab3d12192957055555f244afa1e2b6e6b35abffa[m[33m ([m[1;32mfeature1[m[33m)[m
+[35m|[m [36m|[m Author: KaiAdrian83 <thriller30@gmail.com>
+[35m|[m [36m|[m Date:   Wed May 8 08:27:01 2024 +0200
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     commit3 END of FEATURE1
+[35m|[m [36m|[m 
+[35m|[m * [33mcommit 69b53d2820f9807e14999945c1830909fd7294af[m
+[35m|[m [36m|[m Author: KaiAdrian83 <thriller30@gmail.com>
+[35m|[m [36m|[m Date:   Tue May 7 14:19:56 2024 +0200
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     feature commit2
+[35m|[m [36m|[m 
+[35m|[m * [33mcommit 50c9009fdb9ef93b8cca39a11a91dcaa65754447[m
+[35m|[m [36m|[m Author: KaiAdrian83 <thriller30@gmail.com>
+[35m|[m [36m|[m Date:   Tue May 7 14:18:41 2024 +0200
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     feature commit1
+[35m|[m [36m|[m 
+* [36m|[m [33mcommit a9d52bd9fa19a7463026ca970a06cae2796e05c4[m
+[36m|[m[36m/[m  Author: KaiAdrian83 <thriller30@gmail.com>
+[36m|[m   Date:   Tue May 7 14:24:00 2024 +0200
+[36m|[m   
+[36m|[m       bugfix
+[36m|[m 
+* [33mcommit f431bec20de72bb0045dcb75c3abed7f09171378[m
+[36m|[m Author: KaiAdrian83 <thriller30@gmail.com>
+[36m|[m Date:   Tue May 7 13:40:50 2024 +0200
+[36m|[m 
+[36m|[m     version3
+[36m|[m 
+* [33mcommit 254ffe6a9da1ef22e257613ac9645de907dee091[m
+[36m|[m Author: KaiAdrian83 <thriller30@gmail.com>
+[36m|[m Date:   Tue May 7 13:40:22 2024 +0200
+[36m|[m 
+[36m|[m     version2
+[36m|[m 
+* [33mcommit 2d605d95854218743f06a5caaaef0873abde95f7[m
+  Author: KaiAdrian83 <thriller30@gmail.com>
+  Date:   Tue May 7 13:39:12 2024 +0200
+  
+      version1
